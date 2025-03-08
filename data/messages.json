@@ -12,5 +12,12 @@
     "sentAt": "2025-03-08T13:29:48.828Z",
     "isRead": false,
     "id": 2
+  },
+  {
+    "recipientId": 1,
+    "content": "Hi",
+    "sentAt": "2025-03-08T13:30:21.506Z",
+    "isRead": false,
+    "id": 3
   }
 ]
