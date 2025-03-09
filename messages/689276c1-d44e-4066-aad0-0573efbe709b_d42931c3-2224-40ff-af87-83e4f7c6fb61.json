@@ -34,5 +34,14 @@
     "timestamp": "2025-03-09T07:52:07.585Z",
     "status": "sent",
     "type": "text"
+  },
+  {
+    "id": "32db7454-5ac3-4b5e-9413-56343044c194",
+    "senderId": "689276c1-d44e-4066-aad0-0573efbe709b",
+    "receiverId": "d42931c3-2224-40ff-af87-83e4f7c6fb61",
+    "content": "Hy",
+    "timestamp": "2025-03-09T07:58:21.582Z",
+    "status": "sent",
+    "type": "text"
   }
 ]
