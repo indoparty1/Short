@@ -70,5 +70,14 @@
     "timestamp": "2025-03-09T08:02:57.770Z",
     "status": "sent",
     "type": "text"
+  },
+  {
+    "id": "20ffaa39-6763-4f98-b6f0-3f90c563d654",
+    "senderId": "d42931c3-2224-40ff-af87-83e4f7c6fb61",
+    "receiverId": "689276c1-d44e-4066-aad0-0573efbe709b",
+    "content": "Kaise ho",
+    "timestamp": "2025-03-09T08:03:05.225Z",
+    "status": "sent",
+    "type": "text"
   }
 ]
